@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhai|Roboto');
+
+/*Imported Fonts
+font-family: 'Baloo Bhai', cursive;
+font-family: 'Roboto', sans-serif;
+
+Colour Palette (based on Sky logo))
+White: #FFFFFF
+Burnt Orange: #EA5435
+Raspberry: #BC366C
+Cobalt: #382784
+Black: #000000
+
+*/
+
+
+/*General styling*/
+           
+h1 {
+    background-color: #FFFFFF;
+    color: #382784;
+    font: 64px 'Baloo Bhai', cursive;
+    line-height: 1;
+    margin-bottom: 0;
+    text-align: center;
+    
+}
+
+h3 {
+    font-family: Helvetica;
+    font-weight: 600;
+    line-height: 1;
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: EA5435;
+    text-align: center;
+}
+
+h4 {
+    font: 18px 'Roboto', sans-serif;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p{
+    font-family: Helvetica;
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.wrap-box-1{
+    align-items: center;
+    justify-content: center;
+    min-height: 360px;
+    background: #EA5435;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 15px 60px 15px 60px;
+}
+            
+ .wrap-box-2 {
+    align-items: center;
+    justify-content: center;
+    min-height: 360px;
+    background: #BC366C;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 15px 60px 30px 60px;
+}
+
+
+/*Navbar styling*/
+#logo{
+    height: auto; 
+    width: auto;
+    max-width: 80px;
+}
+
+.bg-custom{
+    background-color: #382784;
+}
+
+.nav-item{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+
+/*Slider Styling*/
+.leftSliderLabel {
+  color: #FFFFFF;
+  font: 17px Helvetica;
+  font-weight: 600;
+  line-height: 1.2;
+  text-align: left;
+  width: 15%;
+}
+
+.rightSliderLabel {
+  color: #FFFFFF;
+  font: 17px Helvetica;
+  font-weight: 600;
+  text-align: right;
+  width: 15%;
+}
+
+.slidecontainer {
+  width: 100%; 
+  padding-top: 20px;
+  padding-bottom: 20px
+}
+
+.slider {              /*Styling for slider bar*/
+  -webkit-appearance: none;
+  width: 70%;          
+  height: 15px;        
+  border-radius: 5px;  
+  background: #d3d3d3; 
+  outline: none;       /*Slider bar no outline*/
+  opacity: 0.7;        /*Opacity of slider bar*/ 
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider:hover {
+  opacity: 1; /* Slider bar and point fully visible on mouse-over */
+}
+
+.slider::-webkit-slider-thumb { /*Styling for slider button*/
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%; 
+  background: #000000;
+  cursor: pointer;
+}
+
+
+/*Film Suggestion Styling*/
+.card {
+  width: 180px;
+  height: 300px;
+  margin: auto;       /*Spacing between images*/
+  text-align: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.cardImage {
+  border-radius: 5px 5px 0 0;
+  width: 178px;
+  height: 174px;
+  object-fit: contain;
+  justify-content: center;
+}
+
+.readMore {
+  border: solid;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #382784;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-family: Helvetica;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.readMore:hover, a:hover {
+  opacity: 0.7;
+}
+
+.uploadForm {
+  align-items: center;
+  justify-content: center;
+  width: 100%; 
+  padding-top: 20px;
+  padding-bottom: 20px
+}
+
