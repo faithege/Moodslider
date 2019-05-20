@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<films>
+
+		<film id='1'>
+			<title>Coco</title>
+			<imagePath>images/filmImages/coco2017.jpg</imagePath>
+			<genre>Animation</genre>
+			<year>2017</year>
+			<runningTimeMinutes>105</runningTimeMinutes>
+			<description>Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.</description>
+			<mood>happy</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='2'>
+			<title>Shrek</title>
+			<imagePath>images/filmImages/shrek2001.jpg</imagePath>
+			<genre>Animation</genre>
+			<year>2001</year>
+			<runningTimeMinutes>90</runningTimeMinutes>
+			<description>A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.</description>
+			<mood>happy</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='3'>
+			<title>Sister Act 2: Back in the Habit</title>
+			<imagePath>images/filmImages/sisterAct21993.jpg</imagePath>
+			<genre>Comedy</genre>
+			<year>1993</year>
+			<runningTimeMinutes>107</runningTimeMinutes>
+			<description>Showgirl Deloris Van Cartier returns as Sister Mary Clarence to teach music to a group of Catholic students whose run-down school is slated for closure.</description>
+			<mood>happy</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>2</laughabilityScore>
+		</film>
+		<film id='4'>
+			<title>Lion</title>
+			<imagePath>images/filmImages/lion2016.png</imagePath>
+			<genre>Biography</genre>
+			<year>2016</year>
+			<runningTimeMinutes>118</runningTimeMinutes>
+			<description>A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.</description>
+			<mood>sad</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>-1</scareabilityScore>
+			<laughabilityScore>-2</laughabilityScore>
+		</film>
+		<film id='5'>
+			<title>Still Alice</title>
+			<imagePath>images/filmImages/stillAlice2014.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2014</year>
+			<runningTimeMinutes>101</runningTimeMinutes>
+			<description>A linguistics professor and her family find their bonds tested when she is diagnosed with Alzheimer's Disease.</description>
+			<mood>sad</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='6'>
+			<title>PS I Love You</title>
+			<imagePath>images/filmImages/psILoveYou2007.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2007</year>
+			<runningTimeMinutes>126</runningTimeMinutes>
+			<description>A young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.</description>
+			<mood>sad</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>-1</laughabilityScore>
+		</film>
+		<film id='7'>
+			<title>Inception</title>
+			<imagePath>images/filmImages/inception2010.jpg</imagePath>
+			<genre>Action</genre>
+			<year>2010</year>
+			<runningTimeMinutes>148</runningTimeMinutes>
+			<description>A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='8'>
+			<title>Donnie Darko</title>
+			<imagePath>images/filmImages/donnieDarko2001.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2001</year>
+			<runningTimeMinutes>113</runningTimeMinutes>
+			<description>A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>-1</laughabilityScore>
+		</film>
+		<film id='9'>
+			<title>The Butterfly Effect</title>
+			<imagePath>images/filmImages/theButterflyEffect2004.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2004</year>
+			<runningTimeMinutes>113</runningTimeMinutes>
+			<description>Evan Treborn suffers blackouts during significant events of his life. As he grows up, he finds a way to remember these lost memories and a supernatural way to alter his life by reading his journal.</description>
+			<mood>awake</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='10'>
+			<title>Widows</title>
+			<imagePath>images/filmImages/widows2018.png</imagePath>
+			<genre>Crime</genre>
+			<year>2018</year>
+			<runningTimeMinutes>129</runningTimeMinutes>
+			<description>Set in contemporary Chicago, amid a time of turmoil, four women with nothing in common except a debt left behind by their dead husbands' criminal activities, take fate into their own hands, and conspire to forge a future on their own terms.</description>
+			<mood>asleep</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='11'>
+			<title>Gifted</title>
+			<imagePath>images/filmImages/gifted2017.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2017</year>
+			<runningTimeMinutes>101</runningTimeMinutes>
+			<description>Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.</description>
+			<mood>asleep</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='12'>
+			<title>Mean Girls</title>
+			<imagePath>images/filmImages/meanGirls2004.png</imagePath>
+			<genre>Comedy</genre>
+			<year>2004</year>
+			<runningTimeMinutes>97</runningTimeMinutes>
+			<description>Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.</description>
+			<mood>asleep</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='13'>
+			<title>Get Out</title>
+			<imagePath>images/filmImages/getOut2017.jpg</imagePath>
+			<genre>Horror</genre>
+			<year>2017</year>
+			<runningTimeMinutes>104</runningTimeMinutes>
+			<description>A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.</description>
+			<mood>scare</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>2</laughabilityScore>
+		</film>
+		<film id='14'>
+			<title>Saw</title>
+			<imagePath>images/filmImages/saw2004.jpg</imagePath>
+			<genre>Horror</genre>
+			<year>2004</year>
+			<runningTimeMinutes>103</runningTimeMinutes>
+			<description>Two strangers, who awaken in a room with no recollection of how they got there, soon discover they're pawns in a deadly game perpetrated by a notorious serial killer.</description>
+			<mood>scare</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>2</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='15'>
+			<title>Hereditary</title>
+			<imagePath>images/filmImages/hereditary2018.jpg</imagePath>
+			<genre>Horror</genre>
+			<year>2018</year>
+			<runningTimeMinutes>127</runningTimeMinutes>
+			<description>After the family matriarch passes away, a grieving family is haunted by tragic and disturbing occurrences, and begin to unravel dark secrets.</description>
+			<mood>scare</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>2</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='16'>
+			<title>50 First Dates</title>
+			<imagePath>images/filmImages/50firstDates2004.jpg</imagePath>
+			<genre>Comedy</genre>
+			<year>2004</year>
+			<runningTimeMinutes>99</runningTimeMinutes>
+			<description>Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day.</description>
+			<mood>soothe</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='17'>
+			<title>Forrest Gump</title>
+			<imagePath>images/filmImages/forrestGump1994.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>1994</year>
+			<runningTimeMinutes>142</runningTimeMinutes>
+			<description>The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.</description>
+			<mood>soothe</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='18'>
+			<title>27 Dresses</title>
+			<imagePath>images/filmImages/27dresses2008.jpg</imagePath>
+			<genre>Comedy</genre>
+			<year>2008</year>
+			<runningTimeMinutes>111</runningTimeMinutes>
+			<description>After serving as a bridesmaid 27 times, a young woman wrestles with the idea of standing by her sister's side as her sibling marries the man she's secretly in love with.</description>
+			<mood>soothe</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='19'>
+			<title>Bridesmaids</title>
+			<imagePath>images/filmImages/bridesmaids2011.jpg</imagePath>
+			<genre>Comedy</genre>
+			<year>2011</year>
+			<runningTimeMinutes>125</runningTimeMinutes>
+			<description>Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.</description>
+			<mood>laugh</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>2</laughabilityScore>
+		</film>
+		<film id='20'>
+			<title>Four Lions</title>
+			<imagePath>images/filmImages/fourLions2010.jpg</imagePath>
+			<genre>Comedy</genre>
+			<year>2010</year>
+			<runningTimeMinutes>97</runningTimeMinutes>
+			<description>Four incompetent British terrorists set out to train for and commit an act of terror.</description>
+			<mood>laugh</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>0</awakenessScore>
+			<scareabilityScore>-1</scareabilityScore>
+			<laughabilityScore>2</laughabilityScore>
+		</film>
+		<film id='21'>
+			<title>Crazy Stupid Love</title>
+			<imagePath>images/filmImages/crazyStupidLove2011.jpg</imagePath>
+			<genre>Comedy</genre>
+			<year>2011</year>
+			<runningTimeMinutes>118</runningTimeMinutes>
+			<description>A middle-aged husband's life changes dramatically when his wife asks him for a divorce. He seeks to rediscover his manhood with the help of a newfound friend, Jacob, learning to pick up girls at bars.</description>
+			<mood>laugh</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>0</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>2</laughabilityScore>
+		</film>
+		<film id='22'>
+			<title>The Fault in Our Stars</title>
+			<imagePath>images/filmImages/theFaultInOurStars2014.png</imagePath>
+			<genre>Drama</genre>
+			<year>2014</year>
+			<runningTimeMinutes>126</runningTimeMinutes>
+			<description>Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam.</description>
+			<mood>cry</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>0</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>-2</laughabilityScore>
+		</film>
+		<film id='23'>
+			<title>Fences</title>
+			<imagePath>images/filmImages/fences2016.png</imagePath>
+			<genre>Drama</genre>
+			<year>2016</year>
+			<runningTimeMinutes>139</runningTimeMinutes>
+			<description>A working-class African-American father tries to raise his family in the 1950s, while coming to terms with the events of his life.</description>
+			<mood>cry</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>-1</scareabilityScore>
+			<laughabilityScore>-1</laughabilityScore>
+		</film>
+		<film id='24'>
+			<title>My Sister's Keeper</title>
+			<imagePath>images/filmImages/mySistersKeeper2009.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2009</year>
+			<runningTimeMinutes>109</runningTimeMinutes>
+			<description>Anna Fitzgerald looks to earn medical emancipation from her parents who until now have relied on their youngest child to help their leukemia-stricken daughter Kate remain alive.</description>
+			<mood>cry</mood>
+			<happinessScore>-2</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>-2</laughabilityScore>
+		</film>
+		<film id='25'>
+			<title>Gladiator</title>
+			<imagePath>images/filmImages/gladiator2000.png</imagePath>
+			<genre>Action</genre>
+			<year>2000</year>
+			<runningTimeMinutes>155</runningTimeMinutes>
+			<description>A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.</description>
+			<mood>awake</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='26'>
+			<title>Signs</title>
+			<imagePath>images/filmImages/signs2002.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2002</year>
+			<runningTimeMinutes>106</runningTimeMinutes>
+			<description>A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.</description>
+			<mood>scare</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>2</scareabilityScore>
+			<laughabilityScore>-1</laughabilityScore>
+		</film>
+		<film id='27'>
+			<title>Training Day</title>
+			<imagePath>images/filmImages/trainingDay2001.jpg</imagePath>
+			<genre>Crime</genre>
+			<year>2001</year>
+			<runningTimeMinutes>122</runningTimeMinutes>
+			<description>On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the L.A.P.D. with a rogue detective who isn't what he appears to be.</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='28'>
+			<title>Guardians of the Galaxy</title>
+			<imagePath>images/filmImages/guardiansOfTheGalaxy2014.jpg</imagePath>
+			<genre>Action</genre>
+			<year>2014</year>
+			<runningTimeMinutes>201</runningTimeMinutes>
+			<description>A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.</description>
+			<mood>happy</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='29'>
+			<title>The Social Network</title>
+			<imagePath>images/filmImages/theSocialNetwork2010.jpg</imagePath>
+			<genre>Biography</genre>
+			<year>2010</year>
+			<runningTimeMinutes>120</runningTimeMinutes>
+			<description>Harvard student Mark Zuckerberg creates the social networking site. That would become known as Facebook but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.</description>
+			<mood>laugh</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>-1</scareabilityScore>
+			<laughabilityScore>2</laughabilityScore>
+		</film>
+		<film id='30'>
+			<title>Drive</title>
+			<imagePath>images/filmImages/drive2011.jpg</imagePath>
+			<genre>Crime</genre>
+			<year>2011</year>
+			<runningTimeMinutes>100</runningTimeMinutes>
+			<description>A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor.</description>
+			<mood>sad</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='31'>
+			<title>Mad Max: Fury Road</title>
+			<imagePath>images/filmImages/madMaxFuryRoad2015.jpg</imagePath>
+			<genre>Action</genre>
+			<year>2015</year>
+			<runningTimeMinutes>120</runningTimeMinutes>
+			<description>In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.</description>
+			<mood>awake</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='32'>
+			<title>Spider-Man: Homecoming</title>
+			<imagePath>images/filmImages/spidermanHomecoming2017.jpg</imagePath>
+			<genre>Action</genre>
+			<year>2017</year>
+			<runningTimeMinutes>133</runningTimeMinutes>
+			<description>Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.</description>
+			<mood>happy</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='33'>
+			<title>Call Me by Your Name</title>
+			<imagePath>images/filmImages/callMeByYourName2017.png</imagePath>
+			<genre>Drama</genre>
+			<year>2017</year>
+			<runningTimeMinutes>132</runningTimeMinutes>
+			<description>In 1980s Italy, a romance blossoms between a seventeen year-old student and the older man hired as his father's research assistant.</description>
+			<mood>soothe</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>-2</laughabilityScore>
+		</film>
+		<film id='34'>
+			<title>Rat Race</title>
+			<imagePath>images/filmImages/ratRace2001.jpg</imagePath>
+			<genre>Adventure</genre>
+			<year>2001</year>
+			<runningTimeMinutes>112</runningTimeMinutes>
+			<description>A Las Vegas casino magnate, determined to find a new avenue for wagering, sets up a race for money.</description>
+			<mood>laugh</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>2</laughabilityScore>
+		</film>
+		<film id='35'>
+			<title>The Pianist</title>
+			<imagePath>images/filmImages/thePianist2002.jpg</imagePath>
+			<genre>Biography</genre>
+			<year>2002</year>
+			<runningTimeMinutes>150</runningTimeMinutes>
+			<description>A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.</description>
+			<mood>cry</mood>
+			<happinessScore>-2</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>-1</scareabilityScore>
+			<laughabilityScore>-2</laughabilityScore>
+		</film>
+		<film id='36'>
+			<title>Blood Diamond</title>
+			<imagePath>images/filmImages/bloodDiamond2006.jpg</imagePath>
+			<genre>Adventure</genre>
+			<year>2006</year>
+			<runningTimeMinutes>143</runningTimeMinutes>
+			<description>A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.</description>
+			<mood>awake</mood>
+			<happinessScore>-2</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>-2</laughabilityScore>
+		</film>
+		<film id='37'>
+			<title>Pirates of the Caribbean: The Curse of the Black Pearl</title>
+			<imagePath>images/filmImages/piratesOfTheCaribbean2003.jpg</imagePath>
+			<genre>Action</genre>
+			<year>2003</year>
+			<runningTimeMinutes>143</runningTimeMinutes>
+			<description>Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.</description>
+			<mood>asleep</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='38'>
+			<title>Mary Poppins Returns</title>
+			<imagePath>images/filmImages/maryPoppinsReturns2018.jpg</imagePath>
+			<genre>Family</genre>
+			<year>2018</year>
+			<runningTimeMinutes>130</runningTimeMinutes>
+			<description>Decades after her original visit, the magical nanny returns to help the Banks siblings and Michael's children through a difficult time in their lives.</description>
+			<mood>asleep</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='39'>
+			<title>Wild Rose</title>
+			<imagePath>images/filmImages/wildRose2018.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2018</year>
+			<runningTimeMinutes>100</runningTimeMinutes>
+			<description>A musician from Glasgow dreams of becoming a Nashville star.</description>
+			<mood>soothe</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>0</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='40'>
+			<title>Fisherman's Friends</title>
+			<imagePath>images/filmImages/fishermansFriends2019.jpg</imagePath>
+			<genre>Comedy</genre>
+			<year>2019</year>
+			<runningTimeMinutes>112</runningTimeMinutes>
+			<description>Ten fisherman from Cornwall are signed by Universal Records and achieve a top ten hit with their debut album of Sea Shanties.</description>
+			<mood>soothe</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='41'>
+			<title>Stan and Ollie</title>
+			<imagePath>images/filmImages/stanAndOllie2018.png</imagePath>
+			<genre>Biography</genre>
+			<year>2018</year>
+			<runningTimeMinutes>98</runningTimeMinutes>
+			<description>Laurel and Hardy, the world's most famous comedy duo, attempt to reignite their film careers as they embark on what becomes their swan song - a grueling theatre tour of post-war Britain.</description>
+			<mood>soothe</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='42'>
+			<title>Green Book</title>
+			<imagePath>images/filmImages/greenBook2018.png</imagePath>
+			<genre>Biography</genre>
+			<year>2018</year>
+			<runningTimeMinutes>130</runningTimeMinutes>
+			<description>A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.</description>
+			<mood>happy</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>0</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='43'>
+			<title>Batman Forever</title>
+			<imagePath>images/filmImages/batmanForever1995.png</imagePath>
+			<genre>Action</genre>
+			<year>1995</year>
+			<runningTimeMinutes>121</runningTimeMinutes>
+			<description>Batman must battle former district attorney Harvey Dent, who is now Two-Face and Edward Nygma, The Riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick, Robin.</description>
+			<mood>happy</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>0</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='44'>
+			<title>The Great Gatsby</title>
+			<imagePath>images/filmImages/theGreatGatsby2013.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2013</year>
+			<runningTimeMinutes>143</runningTimeMinutes>
+			<description>A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby.</description>
+			<mood>soothe</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>-1</laughabilityScore>
+		</film>
+		<film id='45'>
+			<title>Edward Scissorhands</title>
+			<imagePath>images/filmImages/edwardScissorhands1990.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>1990</year>
+			<runningTimeMinutes>105</runningTimeMinutes>
+			<description>An artificial man, who was incompletely constructed and has scissors for hands, leads a solitary life. Then one day, a suburban lady meets him and introduces him to her world.</description>
+			<mood>sad</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>0</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>-1</laughabilityScore>
+		</film>
+		<film id='46'>
+			<title>Fight Club</title>
+			<imagePath>images/filmImages/fightClub1999.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>1999</year>
+			<runningTimeMinutes>139</runningTimeMinutes>
+			<description>An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.</description>
+			<mood>awake</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='47'>
+			<title>Toy Story 3</title>
+			<imagePath>images/filmImages/toyStory32010.jpg</imagePath>
+			<genre>Animation</genre>
+			<year>2010</year>
+			<runningTimeMinutes>103</runningTimeMinutes>
+			<description>The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.</description>
+			<mood>sad</mood>
+			<happinessScore>-2</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='48'>
+			<title>City of God</title>
+			<imagePath>images/filmImages/cityOfGod2002.jpg</imagePath>
+			<genre>Crime</genre>
+			<year>2002</year>
+			<runningTimeMinutes>130</runningTimeMinutes>
+			<description>In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.</description>
+			<mood>awake</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='49'>
+			<title>Annihilation</title>
+			<imagePath>images/filmImages/annihilation2018.png</imagePath>
+			<genre>Adventure</genre>
+			<year>2018</year>
+			<runningTimeMinutes>115</runningTimeMinutes>
+			<description>A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.</description>
+			<mood>scare</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>2</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='50'>
+			<title>Bohemian Rhapsody</title>
+			<imagePath>images/filmImages/bohemianRhapsody2018.jpg</imagePath>
+			<genre>Biography</genre>
+			<year>2018</year>
+			<runningTimeMinutes>134</runningTimeMinutes>
+			<description>The story of the legendary rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).</description>
+			<mood>happy</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='51'>
+			<title>Black Panther</title>
+			<imagePath>images/filmImages/blackPanther2018.jpg</imagePath>
+			<genre>Action</genre>
+			<year>2018</year>
+			<runningTimeMinutes>134</runningTimeMinutes>
+			<description>T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.</description>
+			<mood>awake</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='52'>
+			<title>Inside Out</title>
+			<imagePath>images/filmImages/insideOut2015.jpg</imagePath>
+			<genre>Animation</genre>
+			<year>2015</year>
+			<runningTimeMinutes>134</runningTimeMinutes>
+			<description>After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.</description>
+			<mood>happy</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='53'>
+			<title>Hidden Figures</title>
+			<imagePath>images/filmImages/hiddenFigures2016.jpg</imagePath>
+			<genre>Biography</genre>
+			<year>2016</year>
+			<runningTimeMinutes>127</runningTimeMinutes>
+			<description>The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.</description>
+			<mood>soothe</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='54'>
+			<title>Us</title>
+			<imagePath>images/filmImages/us2019.jpg</imagePath>
+			<genre>Horror</genre>
+			<year>2019</year>
+			<runningTimeMinutes>116</runningTimeMinutes>
+			<description>A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them.</description>
+			<mood>scare</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>2</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='55'>
+			<title>Freaky Friday</title>
+			<imagePath>images/filmImages/freakyFriday2003.png</imagePath>
+			<genre>Comedy</genre>
+			<year>2003</year>
+			<runningTimeMinutes>97</runningTimeMinutes>
+			<description>An overworked mother and her daughter do not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.</description>
+			<mood>happy</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='56'>
+			<title>Monster's Inc</title>
+			<imagePath>images/filmImages/monstersInc2001.jpeg</imagePath>
+			<genre>Animation</genre>
+			<year>2001</year>
+			<runningTimeMinutes>92</runningTimeMinutes>
+			<description>In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.</description>
+			<mood>happy</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>-2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='57'>
+			<title>Deadpool</title>
+			<imagePath>images/filmImages/deadpool2016.jpg</imagePath>
+			<genre>Action</genre>
+			<year>2016</year>
+			<runningTimeMinutes>108</runningTimeMinutes>
+			<description>A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.</description>
+			<mood>laugh</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>-1</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='58'>
+			<title>The Martian</title>
+			<imagePath>images/filmImages/theMartian2015.jpg</imagePath>
+			<genre>Adventure</genre>
+			<year>2015</year>
+			<runningTimeMinutes>144</runningTimeMinutes>
+			<description>An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.</description>
+			<mood>happy</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>-1</awakenessScore>
+			<scareabilityScore>-1</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='59'>
+			<title>The Revenant</title>
+			<imagePath>images/filmImages/theRevenant2015.jpg</imagePath>
+			<genre>Action</genre>
+			<year>2015</year>
+			<runningTimeMinutes>156</runningTimeMinutes>
+			<description>A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='60'>
+			<title>The Orphan</title>
+			<imagePath>images/filmImages/theOrphan2009.jpg</imagePath>
+			<genre>Horror</genre>
+			<year>2009</year>
+			<runningTimeMinutes>123</runningTimeMinutes>
+			<description>A husband and wife who recently lost their baby adopt a 9 year-old girl who is not nearly as innocent as she claims to be.</description>
+			<mood>happy</mood>
+			<happinessScore>1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>2</scareabilityScore>
+			<laughabilityScore>1</laughabilityScore>
+		</film>
+		<film id='61'>
+			<title>Ingrid Goes West</title>
+			<imagePath>images/filmImages/ingridGoesWest2017.jpg</imagePath>
+			<genre>Comedy</genre>
+			<year>2017</year>
+			<runningTimeMinutes>98</runningTimeMinutes>
+			<description>An unhinged social media stalker moves to LA and insinuates herself into the life of an Instagram star.</description>
+			<mood>soothe</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>0</awakenessScore>
+			<scareabilityScore>-1</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='62'>
+			<title>Tully</title>
+			<imagePath>images/filmImages/tully2018.jpg</imagePath>
+			<genre>Comedy</genre>
+			<year>2018</year>
+			<runningTimeMinutes>95</runningTimeMinutes>
+			<description>A struggling mother of three forms an unexpected bond with the night nanny hired to help with her newborn baby.</description>
+			<mood>awake</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>-1</laughabilityScore>
+		</film>
+		<film id='63'>
+			<title>To the Bone</title>
+			<imagePath>images/filmImages/toTheBone2017.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2017</year>
+			<runningTimeMinutes>107</runningTimeMinutes>
+			<description>A young woman, dealing with anorexia, meets an unconventional doctor who challenges her to face her condition and embrace life.</description>
+			<mood>sad</mood>
+			<happinessScore>-2</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>-2</laughabilityScore>
+		</film>
+		<film id='64'>
+			<title>Oblivion</title>
+			<imagePath>images/filmImages/oblivion2013.jpg</imagePath>
+			<genre>Action</genre>
+			<year>2013</year>
+			<runningTimeMinutes>124</runningTimeMinutes>
+			<description>A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.</description>
+			<mood>awake</mood>
+			<happinessScore>-1</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>-1</laughabilityScore>
+		</film>
+		<film id='65'>
+			<title>Old Boy</title>
+			<imagePath>images/filmImages/oldBoy2003.jpg</imagePath>
+			<genre>Action</genre>
+			<year>2003</year>
+			<runningTimeMinutes>120</runningTimeMinutes>
+			<description>After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.</description>
+			<mood>awake</mood>
+			<happinessScore>-2</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>-1</laughabilityScore>
+		</film>
+		<film id='66'>
+			<title>Gattaca</title>
+			<imagePath>images/filmImages/gattaca1997.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>1997</year>
+			<runningTimeMinutes>106</runningTimeMinutes>
+			<description>A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='67'>
+			<title>The Lobster</title>
+			<imagePath>images/filmImages/theLobster2015.jpg</imagePath>
+			<genre>Comedy</genre>
+			<year>2015</year>
+			<runningTimeMinutes>119</runningTimeMinutes>
+			<description>In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into beasts and sent off into The Woods.</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='68'>
+			<title>When Harry Met Sally</title>
+			<imagePath>images/filmImages/whenHarryMetSally1989.jpg</imagePath>
+			<genre>Comedy</genre>
+			<year>1989</year>
+			<runningTimeMinutes>95</runningTimeMinutes>
+			<description>Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.</description>
+			<mood>happy</mood>
+			<happinessScore>2</happinessScore>
+			<awakenessScore>0</awakenessScore>
+			<scareabilityScore>-2</scareabilityScore>
+			<laughabilityScore>2</laughabilityScore>
+		</film>
+		<film id='69'>
+			<title>Phantom Thread</title>
+			<imagePath>images/filmImages/phantomThread2017.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2017</year>
+			<runningTimeMinutes>130</runningTimeMinutes>
+			<description>Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover.</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='70'>
+			<title>A Star Is Born</title>
+			<imagePath>images/filmImages/aStarIsBorn2018.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2018</year>
+			<runningTimeMinutes>136</runningTimeMinutes>
+			<description>A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.</description>
+			<mood>cry</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>0</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>-1</laughabilityScore>
+		</film>
+		<film id='71'>
+			<title>BlacKkKlansman</title>
+			<imagePath>images/filmImages/blackkklansman2018.png</imagePath>
+			<genre>Biography</genre>
+			<year>2018</year>
+			<runningTimeMinutes>135</runningTimeMinutes>
+			<description>Ron Stallworth, an African American police officer from Colorado Springs, CO, successfully manages to infiltrate the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader. Based on actual events.</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>1</awakenessScore>
+			<scareabilityScore>1</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='72'>
+			<title>Black Swan</title>
+			<imagePath>images/filmImages/blackSwan2010.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2010</year>
+			<runningTimeMinutes>108</runningTimeMinutes>
+			<description>A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's "Swan Lake".</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='73'>
+			<title>Interstellar</title>
+			<imagePath>images/filmImages/interstellar2014.jpg</imagePath>
+			<genre>Adventure</genre>
+			<year>2014</year>
+			<runningTimeMinutes>169</runningTimeMinutes>
+			<description>A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='74'>
+			<title>Pan's Labyrinth</title>
+			<imagePath>images/filmImages/pansLabyrinth2006.jpg</imagePath>
+			<genre>Drama</genre>
+			<year>2006</year>
+			<runningTimeMinutes>118</runningTimeMinutes>
+			<description>In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+		<film id='75'>
+			<title>Eternal Sunshine of the Spotless Mind</title>
+			<imagePath>images/filmImages/eternalSunshineOfTheSpotlessMind2004.png</imagePath>
+			<genre>Drama</genre>
+			<year>2004</year>
+			<runningTimeMinutes>108</runningTimeMinutes>
+			<description>When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.</description>
+			<mood>awake</mood>
+			<happinessScore>0</happinessScore>
+			<awakenessScore>2</awakenessScore>
+			<scareabilityScore>0</scareabilityScore>
+			<laughabilityScore>0</laughabilityScore>
+		</film>
+
+	</films>
